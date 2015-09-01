@@ -17,6 +17,7 @@ public class GitHub {
      */
     public static void main(String[] args) {
         System.out.println("test 1 ishara");
+        System.exit(0);
     }
     
 }
